@@ -1,3 +1,4 @@
+
 # Class-Level-Architecture-Recovery
 Basic Class Level Overview of the  C++ source code.
 
@@ -18,5 +19,6 @@ Each class is considered as atomic entity in this code.
 
 **Sample Output (demo3.txt file):**<br/>
 ![Image description]("https://github.com/gagannagpal131/Class-Level-Architecture-Recovery/blob/master/sample_output.PNG")
+![alt text](https://github.com/gagannagpal131/Class-Level-Architecture-Recovery/blob/master/sample_output.PNG)
 
 
