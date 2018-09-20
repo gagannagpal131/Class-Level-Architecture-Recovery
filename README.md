@@ -2,16 +2,13 @@
 # Class-Level-Architecture-Recovery
 Basic Class Level Overview of the  C++ source code.
 
-
-
 **--> This code is intended for class level architecture recovery.<br />**
 **--> The aim is to provide a basic class level view of the  C++ source code for better understanding of the user.<br/>**
 --> C++ code (txt file) is taken as input and scanned line by line.<br />
 --> The class hierarchy is shown as the output<br />
 
-**NOTE:**<br />
-1.) Code is designed for class level architecture recovery and does not take class members into account.<br/>
-Each class is considered as atomic entity in this code. 
+**NOTE:**<br /> <br />
+1.) Code is designed for class level architecture recovery and does not take class members into account. Each class is considered as a separate atomic entity in this code. 
 
 2.) Code is not designed for C++ files with Hybrid or Multilevel inheritance.
 
