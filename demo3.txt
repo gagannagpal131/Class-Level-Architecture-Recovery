@@ -1,0 +1,22 @@
+class vehicles {
+//Members
+};
+
+class electronics {
+//members
+};
+
+class car : public vehicles {
+//members
+};
+
+class bikes : private vehicles {
+//members
+};
+
+class electric_cars : protected vehicles , public electronics {
+//members
+};
+
+
+

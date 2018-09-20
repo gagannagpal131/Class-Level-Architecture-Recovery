@@ -1,0 +1,38 @@
+class Vehicle { 
+public: Vehicle(); 
+~Vehicle(); 
+void print_vehicle(); 
+};
+
+class Car : public Vehicle 
+{ public: Car(); 
+Car(int n); ~Car(); 
+void print_car(); 
+private: GPS g; 
+};
+
+class Bus : public Vehicle 
+{ 
+public: 
+Bus(); 
+~Bus();
+void print_bus(); 
+private: 
+void helper(); 
+};
+
+class GPS 
+{ 
+public: GPS();
+ ~GPS();
+};
+
+int main() { 
+Vehicle v; 
+Bus b; 
+v.print_vehicle(); 
+foo(true); 
+foo(false);
+b.print_bus();
+return 0;
+ } 
